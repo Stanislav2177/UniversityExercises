@@ -1,0 +1,1882 @@
+[
+  {
+    "Id": null,
+    "Attributes": {
+      "xmlns": "http://www.collada.org/2005/11/COLLADASchema",
+      "version": "1.4.1"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "centimeter",
+      "meter": "0.01"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": "Material__26__Plane001_",
+    "Attributes": {
+      "id": "Material__26__Plane001_"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "common"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "opaque": "A_ONE"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "profile": "OpenCOLLADA3dsMax"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "opacity_type",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "falloff_type",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "falloff",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "index_of_refraction",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "wire_size",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "wire_units",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "apply_reflection_dimming",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "dim_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "reflection_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "ambient_diffuse_texture_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "ambient_diffuse_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "diffuse_specular_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "use_self_illum_color",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "self_illumination",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "specular_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "soften",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "Material__25__Box001_",
+    "Attributes": {
+      "id": "Material__25__Box001_"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "common"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "opaque": "A_ONE"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "profile": "OpenCOLLADA3dsMax"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "opacity_type",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "falloff_type",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "falloff",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "index_of_refraction",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "wire_size",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "wire_units",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "apply_reflection_dimming",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "dim_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "reflection_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "ambient_diffuse_texture_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "ambient_diffuse_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "diffuse_specular_lock",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "use_self_illum_color",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "self_illumination",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "specular_level",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "soften",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "ColorEffectR87G120B204",
+    "Attributes": {
+      "id": "ColorEffectR87G120B204"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "common"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": "ColorEffectR87G120B204-material",
+    "Attributes": {
+      "id": "ColorEffectR87G120B204-material",
+      "name": "ColorEffectR87G120B204-material"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "url": "#ColorEffectR87G120B204"
+    },
+    "Connection": {
+      "Id": "ColorEffectR87G120B204",
+      "Attributes": {
+        "id": "ColorEffectR87G120B204"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": "Material__26__Plane001_-material",
+    "Attributes": {
+      "id": "Material__26__Plane001_-material",
+      "name": "Material__26__Plane001_"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "url": "#Material__26__Plane001_"
+    },
+    "Connection": {
+      "Id": "Material__26__Plane001_",
+      "Attributes": {
+        "id": "Material__26__Plane001_"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": "Material__25__Box001_-material",
+    "Attributes": {
+      "id": "Material__25__Box001_-material",
+      "name": "Material__25__Box001_"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "url": "#Material__25__Box001_"
+    },
+    "Connection": {
+      "Id": "Material__25__Box001_",
+      "Attributes": {
+        "id": "Material__25__Box001_"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": "geom-Plane001",
+    "Attributes": {
+      "id": "geom-Plane001",
+      "name": "Plane001"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": "geom-Plane001-positions",
+    "Attributes": {
+      "id": "geom-Plane001-positions"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Plane001-positions-array",
+    "Attributes": {
+      "id": "geom-Plane001-positions-array",
+      "count": "75"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "source": "#geom-Plane001-positions-array",
+      "count": "25",
+      "stride": "3"
+    },
+    "Connection": {
+      "Id": "geom-Plane001-positions-array",
+      "Attributes": {
+        "id": "geom-Plane001-positions-array",
+        "count": "75"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "X",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "Y",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "Z",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Plane001-normals",
+    "Attributes": {
+      "id": "geom-Plane001-normals"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Plane001-normals-array",
+    "Attributes": {
+      "id": "geom-Plane001-normals-array",
+      "count": "75"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "source": "#geom-Plane001-normals-array",
+      "count": "25",
+      "stride": "3"
+    },
+    "Connection": {
+      "Id": "geom-Plane001-normals-array",
+      "Attributes": {
+        "id": "geom-Plane001-normals-array",
+        "count": "75"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "X",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "Y",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "Z",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Plane001-map1",
+    "Attributes": {
+      "id": "geom-Plane001-map1"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Plane001-map1-array",
+    "Attributes": {
+      "id": "geom-Plane001-map1-array",
+      "count": "75"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "source": "#geom-Plane001-map1-array",
+      "count": "25",
+      "stride": "3"
+    },
+    "Connection": {
+      "Id": "geom-Plane001-map1-array",
+      "Attributes": {
+        "id": "geom-Plane001-map1-array",
+        "count": "75"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "S",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "T",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "P",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Plane001-map2",
+    "Attributes": {
+      "id": "geom-Plane001-map2"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Plane001-map2-array",
+    "Attributes": {
+      "id": "geom-Plane001-map2-array",
+      "count": "75"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "source": "#geom-Plane001-map2-array",
+      "count": "25",
+      "stride": "3"
+    },
+    "Connection": {
+      "Id": "geom-Plane001-map2-array",
+      "Attributes": {
+        "id": "geom-Plane001-map2-array",
+        "count": "75"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "S",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "T",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "P",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Plane001-vertices",
+    "Attributes": {
+      "id": "geom-Plane001-vertices"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "semantic": "POSITION",
+      "source": "#geom-Plane001-positions"
+    },
+    "Connection": {
+      "Id": "geom-Plane001-positions",
+      "Attributes": {
+        "id": "geom-Plane001-positions"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "material": "baked_Material__26",
+      "count": "32"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "semantic": "VERTEX",
+      "source": "#geom-Plane001-vertices",
+      "offset": "0"
+    },
+    "Connection": {
+      "Id": "geom-Plane001-vertices",
+      "Attributes": {
+        "id": "geom-Plane001-vertices"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "semantic": "NORMAL",
+      "source": "#geom-Plane001-normals",
+      "offset": "1"
+    },
+    "Connection": {
+      "Id": "geom-Plane001-normals",
+      "Attributes": {
+        "id": "geom-Plane001-normals"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "semantic": "TEXCOORD",
+      "source": "#geom-Plane001-map1",
+      "offset": "2",
+      "set": "0"
+    },
+    "Connection": {
+      "Id": "geom-Plane001-map1",
+      "Attributes": {
+        "id": "geom-Plane001-map1"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "semantic": "TEXCOORD",
+      "source": "#geom-Plane001-map2",
+      "offset": "3",
+      "set": "1"
+    },
+    "Connection": {
+      "Id": "geom-Plane001-map2",
+      "Attributes": {
+        "id": "geom-Plane001-map2"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": "geom-Box001",
+    "Attributes": {
+      "id": "geom-Box001",
+      "name": "Box001"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": "geom-Box001-positions",
+    "Attributes": {
+      "id": "geom-Box001-positions"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Box001-positions-array",
+    "Attributes": {
+      "id": "geom-Box001-positions-array",
+      "count": "24"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "source": "#geom-Box001-positions-array",
+      "count": "8",
+      "stride": "3"
+    },
+    "Connection": {
+      "Id": "geom-Box001-positions-array",
+      "Attributes": {
+        "id": "geom-Box001-positions-array",
+        "count": "24"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "X",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "Y",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "Z",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Box001-normals",
+    "Attributes": {
+      "id": "geom-Box001-normals"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Box001-normals-array",
+    "Attributes": {
+      "id": "geom-Box001-normals-array",
+      "count": "72"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "source": "#geom-Box001-normals-array",
+      "count": "24",
+      "stride": "3"
+    },
+    "Connection": {
+      "Id": "geom-Box001-normals-array",
+      "Attributes": {
+        "id": "geom-Box001-normals-array",
+        "count": "72"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "X",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "Y",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "Z",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Box001-map1",
+    "Attributes": {
+      "id": "geom-Box001-map1"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Box001-map1-array",
+    "Attributes": {
+      "id": "geom-Box001-map1-array",
+      "count": "36"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "source": "#geom-Box001-map1-array",
+      "count": "12",
+      "stride": "3"
+    },
+    "Connection": {
+      "Id": "geom-Box001-map1-array",
+      "Attributes": {
+        "id": "geom-Box001-map1-array",
+        "count": "36"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "S",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "T",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "P",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Box001-map2",
+    "Attributes": {
+      "id": "geom-Box001-map2"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Box001-map2-array",
+    "Attributes": {
+      "id": "geom-Box001-map2-array",
+      "count": "72"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "source": "#geom-Box001-map2-array",
+      "count": "24",
+      "stride": "3"
+    },
+    "Connection": {
+      "Id": "geom-Box001-map2-array",
+      "Attributes": {
+        "id": "geom-Box001-map2-array",
+        "count": "72"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "S",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "T",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "P",
+      "type": "float"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "geom-Box001-vertices",
+    "Attributes": {
+      "id": "geom-Box001-vertices"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "semantic": "POSITION",
+      "source": "#geom-Box001-positions"
+    },
+    "Connection": {
+      "Id": "geom-Box001-positions",
+      "Attributes": {
+        "id": "geom-Box001-positions"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "material": "baked_Material__25",
+      "count": "12"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "semantic": "VERTEX",
+      "source": "#geom-Box001-vertices",
+      "offset": "0"
+    },
+    "Connection": {
+      "Id": "geom-Box001-vertices",
+      "Attributes": {
+        "id": "geom-Box001-vertices"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "semantic": "NORMAL",
+      "source": "#geom-Box001-normals",
+      "offset": "1"
+    },
+    "Connection": {
+      "Id": "geom-Box001-normals",
+      "Attributes": {
+        "id": "geom-Box001-normals"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "semantic": "TEXCOORD",
+      "source": "#geom-Box001-map1",
+      "offset": "2",
+      "set": "0"
+    },
+    "Connection": {
+      "Id": "geom-Box001-map1",
+      "Attributes": {
+        "id": "geom-Box001-map1"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "semantic": "TEXCOORD",
+      "source": "#geom-Box001-map2",
+      "offset": "3",
+      "set": "1"
+    },
+    "Connection": {
+      "Id": "geom-Box001-map2",
+      "Attributes": {
+        "id": "geom-Box001-map2"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": "PhysCamera001-camera",
+    "Attributes": {
+      "id": "PhysCamera001-camera",
+      "name": "PhysCamera001"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": "EnvironmentAmbientLight",
+    "Attributes": {
+      "id": "EnvironmentAmbientLight",
+      "name": "EnvironmentAmbientLight"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": "MaxScene",
+    "Attributes": {
+      "id": "MaxScene"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "name": "EnvironmentAmbientLight"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "url": "#EnvironmentAmbientLight"
+    },
+    "Connection": {
+      "Id": "EnvironmentAmbientLight",
+      "Attributes": {
+        "id": "EnvironmentAmbientLight",
+        "name": "EnvironmentAmbientLight"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": "node-Plane001",
+    "Attributes": {
+      "id": "node-Plane001",
+      "name": "Plane001"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "url": "#geom-Plane001"
+    },
+    "Connection": {
+      "Id": "geom-Plane001",
+      "Attributes": {
+        "id": "geom-Plane001",
+        "name": "Plane001"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "symbol": "baked_Material__26",
+      "target": "#Material__26__Plane001_-material"
+    },
+    "Connection": {
+      "Id": "Material__26__Plane001_-material",
+      "Attributes": {
+        "id": "Material__26__Plane001_-material",
+        "name": "Material__26__Plane001_"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "profile": "OpenCOLLADA"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "cast_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "receive_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "primary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "secondary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "node-Box001",
+    "Attributes": {
+      "id": "node-Box001",
+      "name": "Box001"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "url": "#geom-Box001"
+    },
+    "Connection": {
+      "Id": "geom-Box001",
+      "Attributes": {
+        "id": "geom-Box001",
+        "name": "Box001"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "symbol": "baked_Material__25",
+      "target": "#Material__25__Box001_-material"
+    },
+    "Connection": {
+      "Id": "Material__25__Box001_-material",
+      "Attributes": {
+        "id": "Material__25__Box001_-material",
+        "name": "Material__25__Box001_"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "profile": "OpenCOLLADA"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "cast_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "receive_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "primary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "secondary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "node-PhysCamera001",
+    "Attributes": {
+      "id": "node-PhysCamera001",
+      "name": "PhysCamera001"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "url": "#PhysCamera001-camera"
+    },
+    "Connection": {
+      "Id": "PhysCamera001-camera",
+      "Attributes": {
+        "id": "PhysCamera001-camera",
+        "name": "PhysCamera001"
+      },
+      "Connection": null
+    }
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "profile": "OpenCOLLADA"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "cast_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "receive_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "primary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "secondary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": "node-PhysCamera001.Target",
+    "Attributes": {
+      "id": "node-PhysCamera001.Target",
+      "name": "PhysCamera001.Target"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "profile": "OpenCOLLADA"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "cast_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "receive_shadows",
+      "type": "bool"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "primary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "sid": "secondary_visibility",
+      "type": "int"
+    },
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {},
+    "Connection": null
+  },
+  {
+    "Id": null,
+    "Attributes": {
+      "url": "#MaxScene"
+    },
+    "Connection": {
+      "Id": "MaxScene",
+      "Attributes": {
+        "id": "MaxScene"
+      },
+      "Connection": null
+    }
+  }
+]

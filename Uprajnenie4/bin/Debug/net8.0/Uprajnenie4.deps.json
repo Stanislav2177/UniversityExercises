@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Uprajnenie4/1.0.0": {
+        "runtime": {
+          "Uprajnenie4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uprajnenie4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
